@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "633561873430",
+    "firebase_url": "https://fir-blog-8606d.firebaseio.com",
+    "project_id": "fir-blog-8606d",
+    "storage_bucket": "fir-blog-8606d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:633561873430:android:355ae08f32427fab",
+        "android_client_info": {
+          "package_name": "blog.david.ojeda.firebase_login_flow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "633561873430-4hd47cd4tgtq7co5uidm1sqj1nslnp57.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBPYKxzgZtbDPJhATlcCJgKb6WXJm2EIw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
